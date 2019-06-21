@@ -5,10 +5,10 @@ from subprocess import check_call, check_output, CalledProcessError
 
 from bottle import run, route, response
 
-VERSION = '1.3 Draco'
-PACKAGE_NAME = 'io.makeroid.companion'
+VERSION = '1.05'
+PACKAGE_NAME = 'com.blogspot.aimod.companion'
 
-print('Kodular Starter', 'Version ' + VERSION + ', for Windows')
+print('AIMod Starter', 'Version ' + VERSION + ', for Windows')
 print('- ' * 31)
 
 
